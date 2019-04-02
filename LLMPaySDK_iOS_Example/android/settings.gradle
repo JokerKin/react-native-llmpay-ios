@@ -1,3 +1,0 @@
-rootProject.name = 'LLMPaySDK_iOS_Example'
-
-include ':app'
