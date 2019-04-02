@@ -1,0 +1,25 @@
+{
+  "name": "react-native-llmpay-ios",
+  "version": "1.0.0",
+  "summary": "连连支付react-native iOS端",
+  "authors": {
+    "name": "weijun"
+  },
+  "homepage": "git+https://github.com/JokerKin/react-native-llmpay-ios.git",
+  "license": "MIT",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "git+https://github.com/JokerKin/react-native-llmpay-ios.git"
+  },
+  "source_files": "**/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ],
+    "LLMPay": [
+
+    ]
+  }
+}

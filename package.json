@@ -1,6 +1,6 @@
 {
     "name": "react-native-llmpay-ios",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "连连支付react-native iOS端",
     "main": "index.js",
     "scripts": {

@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-llmpay-ios/lib/LLMPaySDK_iOS.h
